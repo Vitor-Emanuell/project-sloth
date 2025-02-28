@@ -33,4 +33,199 @@ Uma águia voando alto.
 Um falcão planando no céu.
 Um pinguim nadando no gelo.
 Um urso pescando no rio.
+O leão é conhecido como o "rei da selva" devido à sua força e postura majestosa.
+A girafa é o animal terrestre mais alto, com seu pescoço longo e elegante.
+O elefante africano é o maior mamífero terrestre, com orelhas grandes que ajudam na regulação térmica.
+O canguru é famoso por seus saltos altos e sua bolsa, onde carrega seus filhotes.
+O pinguim é uma ave adaptada à vida aquática, conhecida por sua postura ereta e seu andar desajeitado.
+A águia é um predador de topo, com visão extremamente aguçada, capaz de detectar presas a grandes distâncias.
+O morcego é o único mamífero capaz de voar ativamente, utilizando a ecolocalização para se orientar.
+O tubarão é um predador marinho, com uma estrutura corporal que o torna eficiente na caça.
+O coelho é um pequeno mamífero conhecido por suas orelhas longas e hábitos de escavação.
+O panda gigante se alimenta principalmente de bambu e é conhecido por sua aparência fofa e comportamentos tranquilos.
+O camelo é famoso por sua capacidade de sobreviver em ambientes desérticos devido às suas reservas de água.
+O jaguar é um felino robusto, conhecido por sua força e capacidade de nadar grandes distâncias.
+O urso polar vive nas regiões árticas, adaptado ao frio com sua pelagem espessa e camada de gordura.
+O golfinho é um mamífero marinho altamente inteligente, com comportamentos sociais complexos e habilidades de comunicação.
+A cobra é um réptil que se move sem pernas, usando seu corpo flexível para deslizar pelo solo.
+O lobo é um animal social que vive em matilhas e é conhecido por sua habilidade de caça coletiva.
+A zebra tem listras características, que são únicas para cada indivíduo, assim como as impressões digitais nos seres humanos.
+O rinoceronte é um grande herbívoro, conhecido por sua pele espessa e chifres poderosos.
+O beija-flor é uma ave pequena e ágil, capaz de pairar no ar enquanto se alimenta de néctar.
+O avestruz é a maior ave do mundo, incapaz de voar, mas extremamente rápido em terra.
+A onça-pintada é um predador de topo nas florestas tropicais, com manchas características em seu pelo.
+O babuíno é um primata social, conhecido por suas interações complexas dentro do grupo.
+O tamanduá é um mamífero especializado em se alimentar de formigas e cupins com sua longa língua.
+O macaco-aranha é um primata ágil que vive nas copas das árvores e tem cauda preênsil.
+O dragão barbudo é um réptil popular em cativeiro, conhecido por sua aparência única e comportamento tranquilo.
+O leopardo é um felino ágil e solitário, conhecido por sua capacidade de caçar e se mover silenciosamente.
+A pantera negra é uma variação melanística do leopardo, com pelagem totalmente preta.
+O mico-leão-dourado é um primata ameaçado de extinção, nativo das florestas tropicais brasileiras.
+O hipopótamo é um grande mamífero herbívoro, que passa a maior parte do tempo em ambientes aquáticos.
+O pica-pau é uma ave conhecida por seu comportamento de bater o bico nas árvores para procurar alimento.
+O crocodilo é um réptil de grande porte, predador de água, com dentes afiados e uma pele grossa e escamosa.
+A tartaruga marinha é conhecida por suas longas migrações e por sua capacidade de viver muitos anos.
+O corvo é uma ave inteligente, capaz de resolver problemas complexos e até utilizar ferramentas.
+A arara é uma ave colorida e vibrante, conhecida por seu canto e habilidades de imitação.
+O camaleão é famoso por sua capacidade de mudar de cor, ajudando-o a se camuflar em seu ambiente.
+O alce é um grande cervídeo nativo da América do Norte, com enormes galhadas em machos.
+O panda-vermelho é um pequeno mamífero, que se assemelha a um guaxinim, mas com pelagem vermelha.
+O lince é um felino com orelhas pontudas e bigodes longos, adaptado para caçar em áreas de vegetação densa.
+O peixe-boi é um mamífero aquático de grande porte, que vive em águas rasas e se alimenta de plantas aquáticas.
+O morcego-vampiro se alimenta de sangue de outros animais, utilizando seus dentes afiados para perfurar a pele.
+O guaxinim é um mamífero noturno, conhecido por suas mãos ágeis e pelo comportamento curioso.
+O atum é um peixe migratório que pode atingir altas velocidades na água e é um dos mais valiosos para a pesca comercial.
+O camundongo é um pequeno roedor, frequentemente encontrado em áreas urbanas, conhecido por sua rapidez e agilidade.
+A coruja é uma ave noturna, conhecida por sua capacidade de caçar em completa escuridão.
+O caititu é um porco-do-mato nativo das florestas brasileiras, que se esconde nas sombras para evitar predadores.
+A andorinha é uma ave migratória, conhecida por suas longas viagens sazonais e por seu voo ágil.
+O peixe-palhaço é um pequeno peixe tropical que vive em simbiose com anêmonas do mar.
+A onça-parda é um felino solitário, com uma habilidade impressionante de caçar em áreas de vegetação densa.
+O tamanduá-bandeira é o maior dos tamanduás e possui uma longa cauda e uma língua extensível para capturar insetos.
+O cabra é um animal de montanha, conhecido por sua habilidade em escalar terrenos íngremes e rochosos.
+O urso pardo é um grande predador de florestas, conhecido por sua força e capacidade de hibernar durante o inverno.
+A lontra é um mamífero aquático, ágil e brincalhão, que vive em rios e lagos, comendo peixes e crustáceos.
+O cuscuz é um marsupial australiano, conhecido por suas orelhas grandes e cauda longa.
+O morcego de nariz de folha tem uma estrutura nasal única, que ajuda na ecolocalização durante o voo noturno.
+O dragão de Komodo é o maior lagarto do mundo, conhecido por sua força e ferocidade como predador.
+O tricheco é um mamífero marinho com longos dentes, encontrado em águas frias do Ártico.
+O papagaio-do-mar é uma ave marinha com um bico colorido e um comportamento curioso.
+A vaca é um animal domesticado em muitas partes do mundo, fornecendo leite e carne como recursos essenciais.
+O gato-doméstico é um dos animais de estimação mais populares, conhecido por sua independência e agilidade.
+O cachorro é um animal domesticado que é frequentemente referido como o melhor amigo do homem.
+O coala é um marsupial australiano, conhecido por seu comportamento tranquilo e por se alimentar de folhas de eucalipto.
+O bisão é um grande mamífero que vive em pastagens e é um símbolo da fauna norte-americana.
+O cavalo é um animal domesticado que foi fundamental para o transporte e o trabalho ao longo da história.
+O peixe dourado é uma espécie de peixe ornamental amplamente cultivada em aquários ao redor do mundo.
+O sapo é um anfíbio que passa parte de sua vida na água e parte em terra firme.
+A sardinha é um peixe pequeno que forma grandes cardumes e é importante para a indústria pesqueira.
+O tamanduá-mirim é uma espécie menor de tamanduá, que também se alimenta de formigas e cupins.
+O cavalo-marinho é um peixe pequeno, conhecido por sua aparência única e por sua habilidade de nadar em posição vertical.
+O morcego-de-fruta é um tipo de morcego que se alimenta de frutas, especialmente em áreas tropicais.
+O cágado é um réptil com carapaça dura, que passa a maior parte de sua vida em ambientes aquáticos.
+O boi é um animal grande e forte, frequentemente utilizado para trabalho agrícola em várias partes do mundo.
+O galo é um pássaro domesticado, famoso por seu canto matinal e sua importância na agricultura.
+A codorna é uma ave pequena, com carne muito valorizada em muitas culinárias.
+O dromedário é uma variante do camelo, com uma única corcova, adaptado para viver em desertos.
+O mico-prego é um primata pequeno e ágil, frequentemente encontrado nas florestas brasileiras.
+O peru é um grande pássaro domesticado, associado a festas e celebrações como o Dia de Ação de Graças.
+O cavalo-de-praia é uma espécie rara de cavalo-marinho que vive em águas costeiras rasas.
+A aranha-caranguejeira é uma espécie de aranha grande e peluda, que é popular em mercados de animais exóticos.
+O javali é um animal selvagem, com presas grandes e musculosas, que vive em florestas.
+O suricata é um pequeno mamífero social, que vive em grandes grupos nas savanas africanas.
+O quati é um mamífero de focinho longo, que se alimenta de frutas, insetos e pequenos vertebrados.
+O paca é um roedor de médio porte, nativo das florestas tropicais da América Central e do Sul.
+O tamanduá-de-colete é uma espécie de tamanduá com pelagem distinta, nativa do Brasil.
+O cervo é um mamífero herbívoro, conhecido pelas hastes de seus chifres, que são renovadas anualmente.
+O peixe-leão é um peixe venenoso que vive nos recifes de corais do Indo-Pacífico.
+O raposo é um pequeno mamífero carnívoro, conhecido por sua astúcia e habilidade de caça.
+O camundongo de campo é um roedor que vive em habitats naturais, em contraste com seu parente doméstico.
+A andorinha-do-mar é uma ave migratória que passa boa parte do ano em zonas costeiras.
+O morcego-fruticultor é especializado na alimentação de frutas, desempenhando um papel importante na polinização.
+O rolinho é uma ave migratória, conhecida por seu voo silencioso e por se alimentar de sementes.
+O castor é um roedor aquático conhecido por suas habilidades de construção de barragens e represas.
+O jararaca é uma cobra venenosa, nativa das Américas, conhecida por sua agressividade.
+O papagaio-ecletus é uma ave exótica, famosa por sua coloração vibrante e inteligência.
+O galo-da-penha é uma ave de cores brilhantes que habita áreas montanhosas.
+A lâmina-de-água é uma planta aquática que se destaca pela sua flutuabilidade e adaptabilidade.
+O chita é um felino conhecido por sua velocidade incrível, sendo o animal terrestre mais rápido.
+A vaca-marinha é um mamífero marinho herbívoro, também conhecido como manatee.
+O guaxinim é um pequeno mamífero noturno, famoso por sua habilidade em abrir latas de lixo.
+O avestruz é uma ave incapaz de voar, mas com pernas extremamente fortes que permitem correr em alta velocidade.
+O lobo-guará é um canídeo de pelagem avermelhada, nativo do Brasil, conhecido pelo seu grito que ecoa na noite.
+O tamanduá-bandeira tem um focinho longo e uma língua que pode chegar a um metro de comprimento.
+A tartaruga-de-pente é uma espécie marinha ameaçada, com casca de cores vibrantes.
+O esquilo é um roedor ágil, conhecido por seu hábito de armazenar nozes durante o outono.
+O quati possui uma cauda longa e peluda, e vive em bandos organizados.
+O guanaco é um parente da lhama, encontrado em áreas de alta montanha na América do Sul.
+O atum é um peixe de corpo fusiforme, conhecido por sua velocidade e importância na pesca comercial.
+O cavalo-marinho é um pequeno peixe conhecido por sua postura ereta e por se mover muito lentamente na água.
+O rinoceronte branco possui uma enorme boca, adaptada para pastar grama em grandes extensões.
+O golfinho-nariz-de-garrafa é uma das espécies mais conhecidas de golfinhos, frequentemente encontrada em áreas costeiras.
+A coruja-buraqueira é uma ave que habita buracos no solo, sendo ativa tanto de dia quanto de noite.
+O macaco-prego é um primata com uma cauda preênsil que lhe dá uma incrível habilidade para se movimentar entre árvores.
+A estrela-do-mar é um invertebrado marinho que se locomove utilizando seus braços e pode regenerar membros perdidos.
+O mico-leão-preto é um primata ameaçado, nativo da Mata Atlântica brasileira, com pelagem escura e fofa.
+A zorrilha é um mamífero com uma glândula odorífera que utiliza como defesa contra predadores.
+O tucano é uma ave com um bico grande e colorido, que habita as florestas tropicais da América do Sul.
+O pato-mergulhão é uma ave aquática, conhecida por seu comportamento de mergulho e sua vocalização peculiar.
+O anaconda é uma das maiores cobras do mundo, famosa por seu tamanho imenso e por habitar rios e pântanos.
+O hipopótamo se encontra frequentemente em rios e lagos africanos, onde passa boa parte do dia imerso na água.
+O sapo-cururu é uma espécie de sapo de pele rugosa, encontrado principalmente em áreas tropicais da América do Sul.
+O cervo-mateiro é um cervídeo de porte médio, encontrado em florestas subtropicais e temperadas.
+O lagarto-de-cauda-enrolada é conhecido por sua habilidade de se camuflar entre pedras e vegetação.
+A capivara é o maior roedor terrestre, frequentemente vista perto de corpos d'água na América do Sul.
+A andorinha-de-coleira é uma pequena ave migratória que faz grandes viagens sazonais em busca de climas mais quentes.
+O morcego-de-nariz-de-folha é um morcego peculiar, conhecido por seu nariz especializado em ecolocalização.
+O jaguarundi é um felino de pequeno porte, com uma pelagem uniforme e comportamento solitário.
+O pato-mergulhão é uma ave aquática com um comportamento de mergulho, encontrada em lagos e rios de água doce.
+A onça-pintada é um grande predador de florestas tropicais, com manchas que camuflam seu corpo na vegetação.
+O carcará é uma ave de rapina brasileira, conhecida por caçar presas em campos abertos.
+O veado-campeiro habita regiões de cerrado e campos abertos, com um corpo esbelto e ágil.
+O colibri é uma ave com um metabolismo acelerado e uma habilidade impressionante de voar para trás.
+O gavião-carcará é uma ave predadora, com hábitos de caça tanto em terra quanto no ar.
+O tamanduá-mirim é um mamífero de pequeno porte, encontrado principalmente em florestas tropicais da América do Sul.
+O cágado-de-barbicha é uma espécie de tartaruga com uma "barbicha" de pelos no queixo, encontrada na Amazônia.
+O tucano-de-bico-preto é uma ave tropical com um bico longo e curvado, característica que facilita o acesso a frutas.
+O morcego-frutícola é uma espécie de morcego que se alimenta exclusivamente de frutas e flores.
+O canguru-vermelho é a maior espécie de canguru, com uma cauda forte e musculosa para auxiliar nos saltos.
+A gralha-azul é uma ave de plumagem azul vibrante, encontrada principalmente em áreas de Mata Atlântica.
+O peixe-boi-marinho habita as águas quentes da costa atlântica e se alimenta principalmente de plantas aquáticas.
+O quati-de-cauda-anelada é um pequeno mamífero de cauda longa, que se alimenta principalmente de frutas e insetos.
+O tamanduá-de-colete é uma espécie de tamanduá que possui uma "coleira" de pelagem mais clara ao redor do pescoço.
+O tigre-siberiano é uma das maiores subespécies de tigre, com uma pelagem espessa adaptada ao frio.
+O peixe-anjo é uma espécie de peixe tropical de recifes de corais, com uma aparência graciosa e colorida.
+O iguana é um réptil com uma pele escamosa e uma crista ao longo das costas, geralmente encontrada em regiões tropicais.
+O coelho-da-páscoa, uma figura mitológica, é conhecido por esconder ovos coloridos em celebrações de primavera.
+O guaxinim-de-cauda-longa é uma variação do guaxinim, caracterizado por uma cauda mais longa e peluda.
+A águia-real é uma das aves de rapina mais poderosas, com garras afiadas e um voo majestoso.
+O lobinho é um pequeno roedor, nativo das florestas tropicais, que se alimenta de sementes e frutas.
+O javali-europeu é um mamífero selvagem com presas grandes, encontrado principalmente em florestas temperadas.
+A águia-careca é uma ave símbolo dos Estados Unidos, conhecida por sua cabeça branca e comportamento de caça eficiente.
+O boto-cor-de-rosa é um golfinho de água doce, com uma tonalidade única de cor rosa em algumas regiões da Amazônia.
+O camundongo-da-pradaria é um pequeno roedor que vive em áreas abertas, formando grandes colônias subterrâneas.
+O caboclo é um pequeno marsupial nativo da América do Sul, com pelagem densa e hábitos noturnos.
+O ariranha é uma espécie de lontra brasileira, conhecida por viver em grupos familiares e ser uma predadora eficaz.
+O morcego-de-cauda-larga é uma espécie de morcego da família Vespertilionidae, comum em áreas tropicais.
+O jaguar-pintado é uma subespécie rara de jaguar, que se distingue por suas marcas mais claras e características.
+O cavalo-de-prata é um animal forte e ágil, utilizado como meio de transporte em regiões rurais.
+O peixe-lua é um peixe de grandes dimensões, conhecido por sua aparência peculiar e por habitar águas profundas.
+O albatroz é uma grande ave marinha com asas longas, adaptada para percorrer vastas distâncias sobre o mar.
+O javali-africano é um mamífero selvagem, com uma pelagem escura e presas curvadas, encontrado em regiões africanas.
+O cão-de-pressa é uma raça de cachorro, desenvolvida para caça, com uma habilidade extraordinária para correr.
+O suricata-do-deserto é um mamífero pequeno e social, que habita as regiões áridas da África.
+O camelo-de-dromedário é um animal de uma única corcova, capaz de suportar longos períodos sem água no deserto.
+O cágado-de-jardim é um réptil de pequeno porte, que vive em áreas de vegetação e é conhecido por sua natureza lenta.
+A abelha-ruiva é uma abelha tropical, famosa pela coloração vibrante e por seu importante papel na polinização.
+O gambá é um mamífero noturno, conhecido por seu odor forte e por se defender de predadores dessa maneira.
+A coruja-das-torres é uma ave noturna de voo silencioso, encontrada em muitos tipos de habitats ao redor do mundo.
+O tartaruguinha-de-couro é uma espécie rara de tartaruga marinha, conhecida por sua carapaça escura e por ser ameaçada de extinção.
+O paca-de-cauda-curta é um roedor de médio porte, que se encontra nas florestas tropicais da América Latina.
+O leão-marinho é um mamífero marinho que se adapta facilmente a diferentes ambientes, desde as costas até as águas profundas.
+O dromedário-de-uma-corcoiva é capaz de correr grandes distâncias em busca de alimento e água no deserto.
+O sapo-de-bico-éspinho é um anfíbio de pele escamosa, encontrado em regiões tropicais da África.
+O gato-mourisco é um felino pequeno e ágil, nativo da América do Sul.
+O calango é um tipo de lagarto que habita regiões semiáridas e tem grande capacidade de adaptação.
+O cateto é um tipo de porco-do-mato encontrado principalmente em florestas da América Central e do Sul.
+O guepardo-africano é o animal terrestre mais rápido do mundo, capaz de atingir altíssimas velocidades em poucas passadas.
+O guaxinim-da-floresta é um mamífero de hábitos noturnos, com habilidades excepcionais de forrageamento.
+O coiote é um animal adaptável, encontrado nas Américas, e conhecido por seus uivos e comportamento oportunista.
+O pinguim-imperador é a maior espécie de pinguim, que habita as regiões geladas da Antártida.
+O condor é uma das aves mais pesadas do mundo, capaz de voar por longas distâncias em busca de alimentos.
+A lebre-da-neve é um pequeno mamífero de pelagem branca, adaptado ao frio intenso das regiões árticas.
+O jacaré-do-pantanal é uma espécie de réptil encontrado em áreas alagadas, com uma enorme mandíbula e dentes afiados.
+O esquilo-voador é um roedor que possui membranas entre os membros, permitindo-lhe deslizar de árvore em árvore.
+O cágado-do-queixada é uma espécie rara de tartaruga que se alimenta principalmente de vegetação e pequenos animais.
+A aranha-marrom é uma espécie venenosa que habita principalmente regiões urbanas.
+O codorna-comum é uma ave de pequeno porte, encontrada em campos abertos e muito apreciada por sua carne saborosa.
+O peixe-espada é um peixe de grande porte, conhecido por sua característica espada longa no focinho.
+O morcego-de-boca-larga é um animal noturno, especializado na captura de insetos.
+O peixe-boi-africano é uma espécie de peixe-boi que habita as águas costeiras da África.
+A anta brasileira é um grande herbívoro, encontrado nas florestas tropicais e conhecidíssimo por seu corpo robusto.
+O axolotl é uma salamandra aquática, famosa por sua habilidade de regenerar partes do corpo.
+O pato-mergulhão é uma ave aquática que se destaca por sua capacidade de mergulhar para pegar alimentos submersos.
+A aranha-teia-de-ouro é uma aranha conhecida por construir teias de aparência dourada e extremamente resistentes.
+O camundongo-do-campo é um roedor que vive em campos e jardins, adaptando-se bem ao ambiente rural.
+O coyote-de-crista é uma variação do coyote com penas especiais na cabeça, tornando-se um predador imponente.
+O guepardo é o animal terrestre mais rápido do mundo, capaz de alcançar velocidades impressionantes em curtas distâncias durante a caça.
 
