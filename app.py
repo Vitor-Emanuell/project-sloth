@@ -21,8 +21,8 @@ def ler_descricoes(caminho_arquivo, rotulo):
     return descricoes
 
 # Passo 1: Carregar e preparar os dados de NLP
-descricoes_preguica = ler_descricoes('./sloth-recognizer/sloth-text-recognizer/bicho-preguica.txt', 'Bicho-preguiça')
-descricoes_outros = ler_descricoes('./sloth-recognizer/sloth-text-recognizer/outros.txt', 'Outro animal')
+descricoes_preguica = ler_descricoes('sloth-text-recognizer/bicho-preguica.txt', 'Bicho-preguiça')
+descricoes_outros = ler_descricoes('sloth-text-recognizer/outros.txt', 'Outro animal')
 
 # Combinar as descrições em um único DataFrame
 dados = pd.DataFrame(descricoes_preguica + descricoes_outros)
@@ -59,12 +59,12 @@ traducao_classes = {
 }
 
 # Carrega o modelo de CNN
-model = load_model('sloth-recognizer/Image_classify.keras')
+model = load_model('Image_classify.keras')
 data_cat = ['cat', 'dog', 'sloth']
 img_height = 180
 img_width = 180
 st.header('Modelo de Visão Computacional')
-image_path = st.text_input('Insira o nome da imagem:', './sloth-recognizer/Sloth.jpg')
+image_path = st.text_input('Insira o nome da imagem:', 'Sloth.jpg')
 
 # Carrega e processa a imagem
 image_load = tf.keras.utils.load_img(image_path, target_size=(img_height, img_width))
