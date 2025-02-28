@@ -18,7 +18,7 @@ Aplicação de Machine Learning para identificar se um dado representa um bicho-
 - Git
 
 ## Instalação e Uso
-1. Faça um fork do repositório no GitHub: [project-sloth](https://github.com/seu-usuario/project-sloth) 🍴
+1. Faça um fork do repositório no GitHub: [project-sloth](https://github.com/Vitor-Emanuell/project-sloth) 🍴
 2. Instale as dependências necessárias:
     ```bash
     pip install -r requirements.txt
