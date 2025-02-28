@@ -38,7 +38,7 @@ Você também pode acessar a aplicação via Streamlit Cloud: [project-sloth.str
 
 **Desenvolvido com 💚 por Vitor Emanuell Bueno Rocha** 
 
-Projeto realizado para a disciplina **Engenharia de Sistemas de Segurança e Aplicações de Inteligência Artificial**, ministrada pelo professor **Lexandro Melo** no curso de tecnólogo em **Defesa Cibernética** da **Faculdade de Tecnologia de Jundiaí**.
+Projeto realizado para a disciplina **Engenharia de Sistemas de Segurança e Aplicações de Inteligência Artificial**, ministrada pelo professor **Lexandro Melo** no Curso Superior de Tecnologia em **Defesa Cibernética** da **Faculdade de Tecnologia de Jundiaí - Deputado Ary Fossen**.
 
 ---
 
