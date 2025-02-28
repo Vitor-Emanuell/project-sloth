@@ -1,0 +1,43 @@
+{
+    "labels": [
+        "three_toed_sloth"
+    ],
+    "amount_of_images": 1300,
+    "image_color_mode": "color",
+    "image_size": "size_256",
+    "split": {
+        "train": 763,
+        "val": 388,
+        "test": 149
+    },
+    "description": "All the images can be found in the data folder, the images are separated into train/test/val folders with a ratio of 60%/30%/10%",
+    "total_creation_time": "0:11:33.723044",
+    "augmentation": {
+        "active": true,
+        "augmentation_count": 533,
+        "augmentations": [
+            "rotate",
+            "edge_enhance",
+            "max_filter",
+            "min_filter",
+            "sharpen",
+            "smooth",
+            "blur",
+            "brightness",
+            "contrast",
+            "color_jitter",
+            "shuffle_pixels"
+        ],
+        "description": "How to know which image has been augmented? Images with _aug suffix at the train folder"
+    },
+    "about": {
+        "provide_by": "www.images.cv",
+        "useful_links": [
+            "https://images.cv/how-to-use",
+            "https://images.cv/faq",
+            "https://images.cv/computer-vision-dataset-categories",
+            "https://images.cv/computer-vision-image-datasets-index",
+            "https://images.cv/contact"
+        ]
+    }
+}
